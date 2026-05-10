@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there, I'm Felix! 👋
 
-<!--
-**FelixVerdianto17/FelixVerdianto17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Informatics Student and Front-End Developer with a strong interest in UI/UX Design and Product Management. Currently, I also work as a Coding Instructor, guiding students in game and web development.
 
-Here are some ideas to get you started:
+#### 💻 Tech Stack & Tools
+*   **Front-End:** React, Vite, Tailwind CSS, TypeScript
+*   **Concepts:** UI/UX Design, Responsive Web Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 What I'm Up To
+*   🔭 Currently building web applications and focusing on clean, interactive user interfaces.
+*   🌱 Continuously learning about advanced Front-End techniques.
+*   💬 Ask me about React, Tailwind, or teaching coding fundamentals!
+
+#### 📫 How to reach me
+*   **Email:** felixferdianto1017@gmail.com
