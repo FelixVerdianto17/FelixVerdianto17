@@ -3,7 +3,7 @@
 I'm an Informatics Student and Front-End Developer with a strong interest in UI/UX Design and Product Management. Currently, I also work as a Coding Instructor, guiding students in game and web development.
 
 #### 💻 Tech Stack & Tools
-*   **Front-End:** React, Vite, Tailwind CSS, TypeScript
+*   **Front-End:** React, Vite, ,Next, Tailwind CSS, TypeScript
 *   **Concepts:** UI/UX Design, Responsive Web Design
 
 #### 🚀 What I'm Up To
