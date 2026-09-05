@@ -11,5 +11,3 @@ I'm an Informatics Student and Front-End Developer with a strong interest in UI/
 *   🌱 Continuously learning about advanced Front-End techniques.
 *   💬 Ask me about React, Tailwind, or teaching coding fundamentals!
 
-#### 📫 How to reach me
-*   **Email:** felixferdianto1017@gmail.com
